@@ -1,7 +1,7 @@
 # Data Engineering with AWS
 
 **Institution:** Udacity
-**Certificate:** [certificated_Udacity_aws.pdf](./certificated_Udacity_aws.pdf)
+**Certificate:** [certificate.pdf](./certificate.pdf)
 **Workload:** 66 hours
 
 ## Course Content
