@@ -1,9 +1,9 @@
 # Data Warehouse Design and Implementation
 
-**Institution:** Data Science Academy
-**Part of:** Data Engineer Training (Formação Engenheiro de Dados)
-**Certificate:** [certificate.pdf](./certificate.pdf)
-**Workload:** — 64 hours
+**Institution:** Data Science Academy<br>
+**Part of:** Data Engineer Training (Formação Engenheiro de Dados)<br>
+**Certificate:** [certificate.pdf](./certificate.pdf)<br>
+**Workload:** 64 hours
 
 ## Course Content
 
