@@ -1,4 +1,4 @@
-# Administrando Bancos de Dados Oracle
+# Managing Oracle Databases
 
 **Institution:** Oramaster (Fábio Prado)
 **Certificate:** [certificate.pdf](./certificate.pdf)
@@ -6,19 +6,19 @@
 
 ## Course Content
 
-1. **Introdução** — Apresentação do treinamento, objetivos e preparação para as certificações OCA/OCP (1Z0-052/062, 1Z0-053/063).
-2. **Arquitetura do Banco de Dados Oracle** — Estrutura interna do Oracle Database: instância, memória, processos e arquivos.
-3. **Instalação do Software Oracle e Criação do Banco de Dados** — Instalação do software e criação de um banco de dados Oracle.
-4. **Gerenciando Instâncias do Banco de Dados Oracle** — Início, parada e gerenciamento de instâncias Oracle.
-5. **Configurando o Ambiente de Rede Oracle** — Configuração de listener, tnsnames e conectividade de rede Oracle.
-6. **Gerenciando Estruturas de Armazenamento de Banco de Dados** — Tablespaces, datafiles e estruturas de armazenamento.
-7. **Gerenciando Usuários** — Criação e administração de usuários, perfis e privilégios.
-8. **Gerenciando a Consistência e Concorrência de Dados** — Controle de transações, locks e consistência de dados.
-9. **Automatizando Tarefas com o Oracle Scheduler** — Agendamento e automação de tarefas administrativas.
-10. **Importando e Exportando Dados** — Utilização de Data Pump e ferramentas de import/export.
-11. **Efetuando Backups** — Estratégias e execução de backups com RMAN.
-12. **Recuperando Backups** — Procedimentos de recovery e restauração de banco de dados.
-13. **Atualizando o Banco de Dados** — Processos de upgrade de versão do Oracle Database.
-14. **Visão Geral da Arquitetura Multitenant e Automatic Storage Management (ASM)** — Introdução ao Container Database (CDB/PDB) e ao ASM.
-15. **Solucionando Problemas** — Diagnóstico e resolução de problemas comuns em ambientes Oracle.
-16. **Dicas Finais** — Recomendações práticas do instrutor para administração de SGBDs Oracle.
+1. **Introduction** — Course overview, objectives, and preparation for the OCA/OCP certifications (1Z0-052/062, 1Z0-053/063).
+2. **Oracle Database Architecture** — Internal structure of the Oracle Database: instance, memory, processes, and files.
+3. **Oracle Software Installation and Database Creation** — Installing the software and creating an Oracle database.
+4. **Managing Oracle Database Instances** — Starting, stopping, and managing Oracle instances.
+5. **Configuring the Oracle Network Environment** — Listener configuration, tnsnames, and Oracle network connectivity.
+6. **Managing Database Storage Structures** — Tablespaces, datafiles, and storage structures.
+7. **Managing Users** — Creating and administering users, profiles, and privileges.
+8. **Managing Data Consistency and Concurrency** — Transaction control, locking, and data consistency.
+9. **Automating Tasks with Oracle Scheduler** — Scheduling and automating administrative tasks.
+10. **Importing and Exporting Data** — Using Data Pump and import/export tools.
+11. **Performing Backups** — Backup strategies and execution using RMAN.
+12. **Recovering Backups** — Recovery and database restoration procedures.
+13. **Upgrading the Database** — Oracle Database version upgrade processes.
+14. **Overview of Multitenant Architecture and Automatic Storage Management (ASM)** — Introduction to Container Database (CDB/PDB) and ASM.
+15. **Troubleshooting** — Diagnosing and resolving common issues in Oracle environments.
+16. **Final Tips** — Practical recommendations from the instructor for administering Oracle DBMSs.
