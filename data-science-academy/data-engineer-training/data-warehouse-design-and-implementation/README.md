@@ -2,6 +2,7 @@
 
 **Institution:** Data Science Academy
 **Part of:** Data Engineer Training (Formação Engenheiro de Dados)
+**Certificate:** [certificate.pdf](./certificate.pdf)
 **Workload:** — 64 hours
 
 ## Course Content
