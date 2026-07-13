@@ -2,6 +2,7 @@
 
 **Institution:** Nerv Informática (Ricardo Portilho)
 **Certificate:** [certificate.pdf](./certificate.pdf)
+**Workload:** — 24 hours
 
 ## Objectives
 
