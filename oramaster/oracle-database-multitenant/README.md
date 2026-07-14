@@ -1,8 +1,8 @@
 # Oracle Database Multitenant
 
-**Institution:** Oramaster
-**Certificate:** [certificate.pdf](./certificate.pdf)
-**Workload:** — (preencher)
+**Institution:** Oramaster<br>
+**Certificate:** [certificate.pdf](./certificate.pdf)<br>
+**Workload:** — 6 hours<br>
 
 ## Course Content
 
