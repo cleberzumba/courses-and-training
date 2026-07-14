@@ -1,8 +1,6 @@
 # Managing Oracle Databases
 
 **Institution:** Oramaster (Fábio Prado)
-**Certificate:** [certificate.pdf](./certificate.pdf)
-**Workload:** — (preencher)
 
 ## Course Content
 
