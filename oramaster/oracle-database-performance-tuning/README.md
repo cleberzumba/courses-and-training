@@ -1,8 +1,8 @@
 # Oracle Database Performance Tuning
 
-**Institution:** Oramaster
-**Certificate:** [certificate.pdf](./certificate.pdf)
-**Workload:** — (preencher)
+**Institution:** Oramaster<br>
+**Certificate:** [certificate.pdf](./certificate.pdf)<br>
+**Workload:** — 24 hours<br>
 
 ## Course Content
 
