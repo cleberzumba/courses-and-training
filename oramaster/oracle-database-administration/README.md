@@ -1,6 +1,6 @@
 # Managing Oracle Databases
 
-**Institution:** Oramaster (Fábio Prado)
+**Institution:** Oramaster (Fábio Prado)<br>
 **Workload:** — 40 hours
 
 ## Course Content
