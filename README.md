@@ -2,7 +2,7 @@
 
 Complete record of courses, nanodegrees, and training completed in Data Engineering, Data Science, Big Data, Machine Learning, and AI.
 
-> Main CV certifications are listed separately in the resume. This repository holds the complete training history with certificates.
+This repository holds the complete training history with certificates.
 
 ## Index
 
