@@ -4,7 +4,6 @@
 **Instructor:** Andrew Ng<br>
 **Certificate:** [certificate.pdf](./certificate.pdf)<br>
 **Completed:** August 2025<br>
-**Workload:** — (not specified)
 
 ## Course Content
 
